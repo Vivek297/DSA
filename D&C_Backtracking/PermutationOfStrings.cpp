@@ -17,5 +17,5 @@ void printpermutations(string& s, int i){
     }
 }
 int main(){
-
+    
 }
